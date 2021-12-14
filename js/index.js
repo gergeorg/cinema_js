@@ -11,4 +11,4 @@ slideMenu({
   closeTrigger: '.navigation__link, .navigation__close',
 })
 
-renderVideo()
+renderVideo();
